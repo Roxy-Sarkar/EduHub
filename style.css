@@ -18,13 +18,30 @@
     font-weight:600;
 
 }
-.courses-card .ready-to-join  .frequently-asked-padding{
+.courses-card .ready-to-join  .frequently-asked-margin{
     
     width:3%;
 }
-.frequently-asked-padding{
+.frequently-asked-margin{
     margin-left:40%;
     margin-right:40%;
     margin-top:3%;
     
+}
+.company-name-margin{
+    margin-left:40%;
+    margin-right:40%;
+    margin-top:3%;
+    padding-top:1.5%;
+    
+    
+}
+.company-image-margin{
+    margin-left:2%;
+    margin-right:5%;
+}
+.company-image-h{
+    font-family: 'Poppins', sans-serif;
+     font-size:4rem;
+     font-weight:700;
 }
