@@ -18,7 +18,13 @@
     font-weight:600;
 
 }
-.courses-card .ready-to-join{
+.courses-card .ready-to-join  .frequently-asked-padding{
     
-    width:30%;
+    width:3%;
+}
+.frequently-asked-padding{
+    margin-left:40%;
+    margin-right:40%;
+    margin-top:3%;
+    
 }
